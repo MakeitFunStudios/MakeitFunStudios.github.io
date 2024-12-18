@@ -1,0 +1,8 @@
+.hoverImage {
+    background-color: white;
+    display: inline-block;
+
+}
+.hoverImage img:hover {
+    scale: 1.2;
+}
